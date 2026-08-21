@@ -1,0 +1,3 @@
+source ~/.zsh/autosuggestions/zsh-autosuggestions.zsh
+source ~/.zsh/fsh/fast-syntax-highlighting.plugin.zsh
+eval "$(~/.local/bin/mise activate zsh)"
